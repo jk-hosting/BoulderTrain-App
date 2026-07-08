@@ -90,8 +90,6 @@
   </tr>
 </table>
 
-<p align="center"><i>Not a rope-climbing plan &mdash; this is bouldering, cover to cover.</i></p>
-
 <br/>
 
 ## <img src="https://img.shields.io/badge/HOW%20IT%20WORKS-3E63DD?style=for-the-badge&labelColor=181818" height="26"/>
