@@ -154,24 +154,20 @@ No account. No sign-up. No cloud. Everything lives on your phone &mdash; so it w
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     SCREENSHOTS — add 5 PNGs to docs/screenshots/ then uncomment this block.
-     Suggested shots (portrait, same phone, dark theme):
-       01-today.png     — Today screen / your session for the day
-       02-plan.png      — the generated block on the calendar
-       03-workout.png   — a workout opened, drills + cues
-       04-progress.png  — stats: grade pyramid + trends
-       05-logbook.png   — outdoor logbook
-────────────────────────────────────────────────────────────────────────
-<h2 align="center">Take a look</h2>
-<p align="center">
-  <img src="docs/screenshots/01-today.png"    width="19%" />
-  <img src="docs/screenshots/02-plan.png"     width="19%" />
-  <img src="docs/screenshots/03-workout.png"  width="19%" />
-  <img src="docs/screenshots/04-progress.png" width="19%" />
-  <img src="docs/screenshots/05-logbook.png"  width="19%" />
-</p>
-════════════════════════════════════════════════════════════════════════ -->
+## <img src="https://img.shields.io/badge/TAKE%20A%20LOOK-3E63DD?style=for-the-badge&labelColor=181818" height="26"/> See it in action
+
+<table align="center">
+  <tr>
+    <td width="33%"><img src="docs/screenshots/01-coach-lab.jpg"        width="100%" alt="Your AI climbing coach — set your grade, days and focus" /></td>
+    <td width="33%"><img src="docs/screenshots/02-plan-generated.jpg"   width="100%" alt="Plans built in seconds — a periodized, multi-week block" /></td>
+    <td width="33%"><img src="docs/screenshots/03-schedule.jpg"         width="100%" alt="Your whole week, planned — an adaptive coaching schedule" /></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="docs/screenshots/04-workouts.jpg"         width="100%" alt="A workout for every goal — search & filter the library" /></td>
+    <td width="33%"><img src="docs/screenshots/05-workout-detail.jpg"   width="100%" alt="Dialled to your level — Easy / Medium / Hard tiers" /></td>
+    <td width="33%"><img src="docs/screenshots/06-session-tracking.jpg" width="100%" alt="Track every session — RPE, grades & training focus" /></td>
+  </tr>
+</table>
 
 ## <img src="https://img.shields.io/badge/EVERYTHING%20YOU%20GET-3E63DD?style=for-the-badge&labelColor=181818" height="26"/>
 
