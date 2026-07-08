@@ -71,6 +71,29 @@
 
 <br/>
 
+## <img src="https://img.shields.io/badge/WHO%20IT%27S%20FOR-3E63DD?style=for-the-badge&labelColor=181818" height="26"/>
+
+<b>Made for boulderers who want to train on purpose &mdash; whatever that looks like for you.</b>
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Stuck at a grade</b><br/>Same three sessions on repeat, no movement for months. Time for a block with a purpose.</td>
+    <td width="50%" valign="top"><b>No coach, no problem</b><br/>You can't (or don't want to) hire a coach or reverse-engineer a pro's spreadsheet.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>Training on a home wall</b><br/>Kilter, spray wall, hangboard, or just a doorway &mdash; it builds around the gear you've got.</td>
+    <td width="50%" valign="top"><b>Two or three days a week</b><br/>Limited time, so every session has to earn its place.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>First crimps to double digits</b><br/>Scales from V0 warm-ups to V15 projects, and grows with you.</td>
+    <td width="50%" valign="top"><b>Indoors to send outdoors</b><br/>Train on the plan, then log the tick when you top out.</td>
+  </tr>
+</table>
+
+<p align="center"><i>Not a rope-climbing plan &mdash; this is bouldering, cover to cover.</i></p>
+
+<br/>
+
 ## <img src="https://img.shields.io/badge/HOW%20IT%20WORKS-3E63DD?style=for-the-badge&labelColor=181818" height="26"/>
 
 <table>
